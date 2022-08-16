@@ -48,7 +48,7 @@ namespace ForLoopAndBreakContinue
                     string cond = Console.ReadLine();
                     if (cond == "Y")
                     {
-                        Console.WriteLine("Döngüyü durdum.");
+                        Console.WriteLine("Döngüyü durdurdum.");
                         break;
                     }
                     
